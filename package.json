@@ -1,0 +1,16 @@
+{
+  "name": "time-since",
+  "version": "0.0.0",
+  "description": "Get time elapsed between two timestamps in concise, human-readable form (e.g. 'About an hour ago'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "keywords": [
+    "time",
+    "elapsed",
+    "since"
+  ],
+  "author": "Luke Bond <luke.n.bond@gmail.com>",
+  "license": "ISC"
+}
